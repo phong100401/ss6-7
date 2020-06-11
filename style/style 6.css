@@ -1,0 +1,10 @@
+.banner{
+    text-align: center;
+    background-color: #C0C0C0;
+    border-style: solid;
+    border-right-style: none;
+    border-left-style: none;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    font-family: fantasy;
+}
